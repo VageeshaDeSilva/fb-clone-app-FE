@@ -1,0 +1,42 @@
+a{
+    margin-left: 30%;
+    padding-top: 5px;
+}
+#createNewBtn{
+    background-color: #36A420;
+    color: #FFFFFF;
+    margin-left: 25%;
+    padding: 12px;
+    font-weight: 600;
+}
+form{
+    padding: 17px;
+    border-radius: 10px;
+    width: 65%;
+    margin-left: -10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+}
+#fbP{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    padding-left: 11px;
+}
+#rightSection{
+    margin: -23px;
+    margin-left: -50px;
+}
+#lestSection{
+    padding-left: 140px;
+}
+#lastPara{
+    margin-left: 25%;
+}
+span{
+    font-weight: 650;
+}
+#fbLogo{
+    margin-left: -19px
+}
